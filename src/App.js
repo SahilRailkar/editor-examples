@@ -1,10 +1,8 @@
-import './App.css';
-
 // Uncomment the editor you would like to see
 
-// import Editor from './TipTap';
-// import Editor from './Draft';
-import Editor from './MySlate';
+import Editor from './components/TipTap/TipTap';
+// import Editor from './components/Draft/Draft';
+// import Editor from './components/Slate/MySlate';
 
 function App() {
   return (
