@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Editor Examples
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Uncomment the editor you would like to view in App.js
+- The JSON object maintaining the editor content will be logged in the console after each update
 
 ## Available Scripts
 
