@@ -1,0 +1,93 @@
+{
+    "blocks": [
+      {
+        "key": "7l6ft",
+        "text": "This is an experiment. What does the EditorState object look like?",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [
+          {
+            "offset": 5,
+            "length": 7,
+            "style": "BOLD"
+          },
+          {
+            "offset": 16,
+            "length": 3,
+            "style": "ITALIC"
+          },
+          {
+            "offset": 57,
+            "length": 9,
+            "style": "UNDERLINE"
+          }
+        ],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "b5fjg",
+        "text": "",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "bu4f2",
+        "text": "this",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "97cgf",
+        "text": "is",
+        "type": "unordered-list-item",
+        "depth": 1,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "f777r",
+        "text": "an",
+        "type": "unordered-list-item",
+        "depth": 2,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "48hta",
+        "text": "unordered",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "6b14j",
+        "text": "list",
+        "type": "unordered-list-item",
+        "depth": 1,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "4kpjj",
+        "text": "Hello!",
+        "type": "header-two",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      }
+    ],
+    "entityMap": {}
+  }
